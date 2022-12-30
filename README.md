@@ -1,5 +1,5 @@
 # Programming-Logic-1
-<p> This repository has the classic game Pong done in JavaScript. The background song it's from  classic game Top Gear.</p>
+<p> This repository has the classic game Pong done in JavaScript. The song playing in the background is from classic game Top Gear.</p>
 <br>
 <h1> My Game Pong </h1> 
  <br>
